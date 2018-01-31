@@ -78,10 +78,11 @@ List of Emoji commit types, for semantic releases and great profit.
 - description: A code change that fixes linting issues
 - title: Lint Fixes
 - level: minor
-    ":boom:": {
-      "description": "A code change that results in backwards-incompatible code",
-      "title": "Breaking Changes",
-      "level": "major"
+
+:boom: `:boom:`
+- description: A code change that results in backwards-incompatible code
+- title: Breaking Changes
+- level: major
 
 ## Spec
 
