@@ -1,0 +1,84 @@
+{
+  "types": {
+    ":new:": {
+      "description": "A new feature",
+      "title": "Features",
+      "level": "minor"
+    },
+    ":bug:": {
+      "description": "A bug fix",
+      "title": "Bug Fixes",
+      "level": "patch"
+    },
+    ":memo:": {
+      "description": "Documentation only changes",
+      "title": "Documentation",
+      "level": "patch"
+    },
+    ":art:": {
+      "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
+      "title": "Code Styles",
+      "level": "patch"
+    },
+    ":gem:": {
+      "description": "Changes that affect the user styling but not functionality",
+      "title": "User Styles",
+      "level": "minor"
+    },
+    ":dizzy:": {
+      "description": "A code change that neither fixes a bug nor adds a feature",
+      "title": "Code Refactoring",
+      "level": "patch"
+    },
+    ":racehorse:": {
+      "description": "A code change that improves performance",
+      "title": "Performance Improvements",
+      "level": "minor"
+    },
+    ":white_check_mark:": {
+      "description": "Adding missing tests or correcting existing tests",
+      "title": "Tests",
+      "level": "patch"
+    },
+    ":wrench:": {
+      "description": "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
+      "title": "Builds",
+      "level": "patch"
+    },
+    ":green_heart:": {
+      "description": "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
+      "title": "Continuous Integrations",
+      "level": "patch"
+    },
+    ":nut_and_bolt:": {
+      "description": "Other changes that don't modify src or test files",
+      "title": "Chores",
+      "level": "patch"
+    },
+    ":crystal_ball": {
+      "description": "Experimental change to the codebase that may be changed later",
+      "title": "Experiments",
+      "level": "patch"
+    },
+    ":lock:": {
+      "description": "A code change that improves security",
+      "title": "Security Improvements",
+      "level": "minor"
+    },
+    ":fire:": {
+      "description": "Changes that have the net result of removing unneeded code but does not affect functionality",
+      "title": "Code Removals",
+      "level": "minor"
+    },
+    ":shirt:": {
+      "description": "A code change that fixes linting issues",
+      "title": "Lint Fixes",
+      "level": "minor"
+    },
+    ":boom:": {
+      "description": "A code change that results in backwards-incompatible code",
+      "title": "Breaking Changes",
+      "level": "major"
+    }
+  }
+}

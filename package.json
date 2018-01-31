@@ -1,0 +1,19 @@
+{
+  "name": "emoji-commit-types",
+  "version": "1.0.0",
+  "description": "List of emoji commit types.",
+  "main": "index.json",
+  "scripts": {
+    "test": "json -f index.json"
+  },
+  "keywords": [],
+  "author": "Sam Richard (https://snugug.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Snugug/emoji-commit-types.git"
+  },
+  "devDependencies": {
+    "json": "^9.0.4"
+  }
+}
