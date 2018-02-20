@@ -59,7 +59,7 @@ List of Emoji commit types, for semantic releases and great profit.
 - title: Chores
 - level: patch
 
-:crystal_ball `:crystal_ball`
+:crystal_ball: `:crystal_ball:`
 - description: Experimental change to the codebase that may be changed later
 - title: Experiments
 - level: patch
