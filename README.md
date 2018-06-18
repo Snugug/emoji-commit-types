@@ -5,7 +5,7 @@ List of Emoji commit types, for semantic releases, commit linting, and great pro
 ## Emoji
 
 | Emoji  | Raw Emoji | Title | Description | Level |
-| :----: | :-------: | :---- | :---------- | :---- |
+| :----: | :-------: | :---: | :--------- | :---: |
 | :boom: | `:boom:` | Breaking Change | A code change that results in backwards-incompatible code | major |
 | :new:  | `:new:`   | Feature | A new feature | minor |
 | :bug:  | `:bug:`   | Bug Fixes | A bug fix | patch |
